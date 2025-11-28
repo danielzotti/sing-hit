@@ -85,9 +85,9 @@ This application is a fully functional **Progressive Web App**! This means you c
 
 ## FUTURE IMPROVEMENTS
 
-[ ] Desktop mode
-[ ] auto set upside down mode based on device
-[ ] Add tests
-[ ] Add more languages / words
-[ ] Multiplayer mode with bluetooth or internet (each player has their own device)
-[ ] Use turbopack instead of webpack
+* Desktop mode
+* Auto set upside down mode based on device
+* Tests
+* New languages / words
+* Multiplayer mode with bluetooth or internet (each player has their own device)
+* Use turbopack instead of webpack
