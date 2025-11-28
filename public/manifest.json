@@ -1,0 +1,50 @@
+{
+    "name": "Sing(h)it!",
+    "short_name": "Sing(h)it!",
+    "description": "The H is silent. U are not.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#22b1dd",
+    "theme_color": "#22b1dd",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/sing-hit-mobile.png",
+            "sizes": "814x1782",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/screenshots/sing-hit-desktop.png",
+            "sizes": "2806x2308",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ],
+    "orientation": "portrait"
+}
