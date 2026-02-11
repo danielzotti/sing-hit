@@ -30,6 +30,28 @@
     * The game ends when the set number of rounds is reached (or manually in Infinite Mode).
     * The player with the highest score is crowned the champion! 🏆
 
+## 📸 Preview
+
+| Setup Page | Game Options |
+| :---: | :---: |
+| ![Setup Page](public/screenshots/sing-hit-setup-page.png) | ![Game Options](public/screenshots/sing-hit-options.png) |
+| *Configure players and modes* | *Tweak your game settings* |
+
+| Mobile View | Desktop View |
+| :---: | :---: |
+| ![Mobile View](public/screenshots/sing-hit-mobile.png) | ![Desktop View](public/screenshots/sing-hit-desktop.png) |
+| *Optimized for touch* | *Full screen party experience* |
+
+| Player Ready | Round Over |
+| :---: | :---: |
+| ![Player Ready](public/screenshots/sing-hit-person.png) | ![Round Over](public/screenshots/sing-hit-round-over.png) |
+| *Ready to buzz in?* | *Verify the song and score points* |
+
+| Winner |
+| :---: |
+| ![Winner](public/screenshots/sing-hit-winner.png) |
+| *Congratulations to the champion!* |
+
 ## 🛠️ Technologies Used
 
 This project is built with a modern, robust tech stack ensuring performance, accessibility, and a great user experience:
